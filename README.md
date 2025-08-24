@@ -30,8 +30,8 @@ Before you begin, make sure you have the following installed:
  1. **Clone the Repository**
 
   ```
-  git clone https://github.com/YOUR_USERNAME/real-estate-dapp.git
-  cd real-estate-dapp
+  git clone https://github.com/FtBunny/Millow.git
+  cd Millow
   ```
 
 2. **Install Dependencies**
