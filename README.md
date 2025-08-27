@@ -108,4 +108,4 @@ Open `config.json` in the project root and update the addresses for your `RealEs
 
 ## 📜 License  
 
-This project is **open-source** and free to use.  
+MIT 
